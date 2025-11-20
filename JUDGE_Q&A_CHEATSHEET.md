@@ -1,4 +1,4 @@
-"# 🎤 SUPERHACK JUDGE Q&A CHEATSHEET
+# 🎤 SUPERHACK JUDGE Q&A CHEATSHEET
 
 **Quick reference for answering judge questions during presentation**
 
@@ -502,4 +502,3 @@ MSPs save $750k/year, reduce technician burnout, improve SLA compliance from 70%
 ---
 
 **Good luck! You built something impressive. Now show them!** 🚀
-"
